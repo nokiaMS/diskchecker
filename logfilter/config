@@ -1,0 +1,12 @@
+#transaction log.
+addTx start=
+submitTransaction start=
+SendTransaction start=
+deepChecker
+
+#block log.
+commitNewWork blockNum=
+Seal start at=
+Seal blockNum=
+DiskChecker
+
